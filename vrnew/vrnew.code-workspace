@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "vrnew",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vrnew"
+	}
+}
